@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://fateme-shafizadeh.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -37,9 +37,9 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: mylinkedin
+linkedin: www.linkedin.com/in/fatemeh-shafizadeh-724719260
 github: mygithub
-email: myemail@gmail.com
+email: phatemehshafizadeh@gmail.com
 
 authors:
   johndoe:
@@ -61,11 +61,11 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
