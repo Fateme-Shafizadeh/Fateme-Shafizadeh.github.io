@@ -12,7 +12,7 @@ picture: profile.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: true
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -23,7 +23,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://fateme-shafizadeh.github.io
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:Fatemeh Shafizadeh/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
