@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/assets/profile.jpeg)
+![Profile Image](profile.jpeg)
 
 <h2>About Me</h2>
 <p>Im Fatemeh Shafizadeh, Physics Student at Shahid Beheshti University.</p>
