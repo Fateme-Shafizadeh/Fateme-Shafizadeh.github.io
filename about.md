@@ -9,8 +9,8 @@ layout: page
 
 <h2>Interests</h2>
 <li>Quantum Foundation</li>
-	<li>Theoritical Condenced Matter Physics</li>
-	<li>Quantum Machine Learning</li>
-	<li>Mathematical Physics</li>
-	<li>Quantum Computation (Design Patterns, Tests)</li>
+<li>Theoritical Condenced Matter Physics</li>
+<li>Quantum Machine Learning</li>
+<li>Mathematical Physics</li>
+<li>Quantum Computation (Design Patterns, Tests)</li>
 
