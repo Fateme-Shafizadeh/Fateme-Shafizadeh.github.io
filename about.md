@@ -5,37 +5,12 @@ layout: page
 ![Profile Image](profile.jpeg)
 
 <h2>About Me</h2>
-<p>Im Fatemeh Shafizadeh, Physics Student at Shahid Beheshti University.</p>
+<p>I am Fatemeh, a final-year physics student at Shahid Beheshti University, specializing in quantum machine learning within the Quantum Information and Computation Group. My passion for physics lies in its ability to connect the fundamental aspects of life and science, offering a unique perspective on the world. </p>
 
 <h2>Interests</h2>
+<li>Quantum Foundation</li>
+	<li>Theoritical Condenced Matter Physics</li>
+	<li>Quantum Machine Learning</li>
+	<li>Mathematical Physics</li>
+	<li>Quantum Computation (Design Patterns, Tests)</li>
 
-<h2>Reaserch Experience</h2>
-<p>.</p>
-
-<h2>Teaching Experience</h2>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
