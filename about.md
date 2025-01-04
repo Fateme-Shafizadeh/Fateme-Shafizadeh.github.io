@@ -12,5 +12,5 @@ layout: page
 <li>Theoritical Condenced Matter Physics</li>
 <li>Quantum Machine Learning</li>
 <li>Mathematical Physics</li>
-<li>Quantum Computation (Design Patterns, Tests)</li>
+<li>Quantum Information and Computation </li>
 
