@@ -18,7 +18,7 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: Fatemeh_Shafizadeh_CV1.pdf
+resume-url: CV_Fatemeh_Shafizadeh_Ghahderijani.pdf
 
 url: https://fateme-shafizadeh.github.io/
 # your url: https://USERNAME.github.io
@@ -43,8 +43,8 @@ email: phatemehshafizadeh@gmail.com
 
 authors:
   johndoe:
-    name: Fatemeh Shafizadeh
-    bio: Physics Student at Shahid Beheshti University
+    name: Fatemeh Shafizadeh Ghahderijani
+    bio: Master’s student in Physics at the University of Cologne
     external-image: true
     picture: profile.jpeg
  #   twitter: johndoe
