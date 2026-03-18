@@ -5,7 +5,7 @@ layout: page
 ![Profile Image](profile.jpeg)
 
 <h2>About Me</h2>
-<p>I'm a Master's student at the University of Cologne, originally from Tehran, Iran. My work sits at the intersection of quantum information, machine learning, and condensed matter physics—areas I believe will shape the future of computation and our understanding of reality.
+<p>I'm a Master's student at the University of Cologne, originally from Tehran, Iran. My work sits at the intersection of quantum information, machine learning, and condensed matter physics, areas I believe will shape the future of computation and our understanding of reality.
 
 During my Bachelor's at Shahid Beheshti University, I developed Quantum Restricted Boltzmann Machines under Dr. Halataei's supervision, achieving significant improvements in computational efficiency compared to classical frameworks. This research cemented my passion for quantum machine learning and problem-solving at the frontiers of physics.
 
